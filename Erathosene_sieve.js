@@ -1,4 +1,4 @@
-//Task: get number from 2 to 25. Take only the prime numbers and throw away the rest.
+//Task: get number from 2 to 1000000 . Take only the prime numbers and throw away the rest.
 
 
 
