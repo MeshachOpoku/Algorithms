@@ -1,2 +1,3 @@
 # Algorithms
 Algorithms
+Explore different algorithms here. Stay curious...
